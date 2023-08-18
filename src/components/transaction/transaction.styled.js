@@ -16,6 +16,8 @@ export const Th = styled.th`
   background-color: #DF2F9E;
 `;
 
+
+
 export const Tr = styled.tr`
   &:nth-child(n + 1) {
     background-color: #E198C0;
